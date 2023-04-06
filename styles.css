@@ -1,0 +1,224 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  background-image: url(routine.jpg);
+  background-repeat: none;
+  background-size: cover;
+  background-position: 50%;
+  background-attachment: fixed;
+  padding-left: 4%;
+}
+
+h1 {
+  text-align: left;
+  align-items: center;
+  align-content: baseline;
+  justify-content: center;  
+  text-decoration: solid;
+  text-transform: uppercase;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+  align-items: center;
+
+  font-weight: 800;
+
+  font-size: 350%;
+
+  margin-top: 1%;
+
+
+  
+  background-image: linear-gradient(to bottom, rgb(12, 113, 160),rgb(6, 34, 91));
+
+  background-clip: text;
+  -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+}
+
+form {
+  margin: 0 auto;
+  max-width: 600px;
+  align-items: left;
+  text-align: left;
+}
+
+label {
+  display: inline-block;
+  width: 80px;
+  text-align: right;
+  margin-right: 10px;
+  text-align: left;
+}
+
+.inputbox {
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #564d4d;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  background-clip: text;
+  -webkit-background-clip: text;
+  text-align: left;
+}
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+li {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.back {
+  align-items: center;
+  text-align: center;  
+width: 6%;
+height: 2.1rem;
+background-clip: text;
+  -webkit-background-clip: text; 
+text-shadow: 4px 6px 6px rgba(3, 109, 22, 0.534) ;
+border-radius: 8px;
+text-decoration: 2px solid black;
+text-transform: inherit;
+font-weight: 500;
+font-size: 100%;
+text-transform: uppercase;
+margin-top: 9%;
+}
+.home {
+  align-items: center;
+  text-align: center;  
+width: 6%;
+height: 2.1rem;
+background-clip: text;
+  -webkit-background-clip: text; 
+text-shadow: 4px 6px 6px rgba(3, 109, 22, 0.534) ;
+border-radius: 8px;
+text-decoration: 2px solid black;
+text-transform: inherit;
+font-weight: 500;
+font-size: 100%;
+text-transform: uppercase;
+margin-left: 2%;
+margin-bottom: 10%;
+margin-top: 9%;
+}
+
+.setActivity {
+  align-items: center;
+  text-align: center;  
+width: 12%;
+height: 2.1rem;
+background-clip: text;
+  -webkit-background-clip: text; 
+text-shadow: 4px 6px 6px rgba(3, 109, 22, 0.534) ;
+border-radius: 8px;
+text-decoration: 2px solid black;
+text-transform: inherit;
+font-weight: 500;
+font-size: 100%;
+text-transform: uppercase;
+}
+
+
+
+
+
+.edit, .save {
+  align-items: center;
+  text-align: center;  
+width: 4%;
+height: 1.5rem;
+background-clip: text;
+  -webkit-background-clip: text; 
+text-shadow: 4px 6px 6px rgba(3, 109, 22, 0.534) ;
+border-radius: 8px;
+text-decoration: 2px solid black;
+text-transform: inherit;
+font-weight: 500;
+font-size: 75%;
+text-transform: uppercase;
+margin-left: 10%;
+margin-right: 2%;
+}
+
+.delete{
+  align-items: center;
+  text-align: center;  
+width: 5%;
+height: 1.5rem;
+background-clip: text;
+  -webkit-background-clip: text; 
+text-shadow: 4px 6px 6px rgba(3, 109, 22, 0.534) ;
+border-radius: 8px;
+text-decoration: 2px solid black;
+text-transform: inherit;
+font-weight: 500;
+font-size: 75%;
+text-transform: uppercase;
+}
+
+.edit:hover {
+  background-color:yellow;
+  opacity: 0.4;
+}
+.delete:hover {
+  background-color: red;
+  opacity: 0.4;
+
+}
+.save:hover {
+  background-color: #1ebb1e;
+  opacity: 0.4;
+}
+.back:hover, .home:hover {
+  background-color:  #bb1e5f;
+  opacity: 0.4;
+  
+}
+.setActivity:hover{
+  background-color: #bb1e5f;
+  opacity: 0.4;
+}
+
+ 
+
+.activityContainer {
+  display: contents;
+  justify-content: space-between;
+  align-items: left;
+  text-align: left;
+  padding-right: 10%;
+  margin-right: 10%;
+}
+.form {
+  text-align: left;
+  align-items: left;
+}
+
+.labels{
+  align-items: left;
+  text-align: left;
+}
+
+
+
+
+
+
+
+
+ 

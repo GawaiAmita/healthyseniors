@@ -1,0 +1,309 @@
+body{
+    align-items: center;
+    align-content: baseline;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+/* --------------------------------------------------css start for login page---------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------------------------------------------------------------------------------ */
+
+.welcomeBody{
+    background-image: url(login1.jpg);
+    background-size: cover;
+
+    background-position: absolute;
+
+    backface-visibility: hidden;
+
+    background-repeat: none;
+
+    background-attachment: fixed;
+    background-position: 50%;
+    background-size: cover;
+    /* margin-left: 45%; */
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.main{
+    align-items: center;
+    align-content: baseline;
+    justify-content: center;  
+    text-decoration: solid;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    align-items: center;
+
+    font-weight: 800;
+
+    font-size: 400%;
+
+    margin-top: 1%;
+
+    background-image: linear-gradient(to bottom, rgb(87, 225, 202), rgb(4, 28, 4));
+
+    background-clip: text;
+    -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+        
+        
+
+   
+}
+
+.sub{
+   
+    margin-top: -3%;
+
+    margin-left: -20%;
+
+    background-image: linear-gradient(to bottom, rgb(251, 169, 205),crimson);
+
+    background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+        font-weight: 800;
+        font-style: oblique;
+        font-size: 120%;
+}
+
+.login{
+    font-size: 170% ;
+    margin-top: 4%;
+    margin-left: -25%;
+    font-weight:700 ;
+
+}
+
+.loginform{
+
+    font-size: 120% ;
+    margin-top: 2%;
+    margin-left: -12%;
+    font-weight: 600;
+
+}
+
+.formcontents{
+    text-align: left;
+    margin-left: 42%;
+}
+
+.submit-btn{
+
+  
+    align-items: center;
+    text-align: center;  
+  width: 12%;
+  height: 2.1rem;
+  background-clip: text;
+    -webkit-background-clip: text; 
+  text-shadow: 4px 6px 6px rgba(3, 109, 22, 0.534) ;
+  border-radius: 8px;
+  text-decoration: 2px solid black;
+  text-transform: inherit;
+  font-weight: 500;
+  font-size: 100%;
+  text-transform: uppercase;
+}
+
+label{
+
+    align-items: center;
+    text-align: center;  
+  width: 12%;
+  height: 2.1rem;
+  background-clip: text;
+    -webkit-background-clip: text; 
+  text-shadow: 4px 6px 6px rgba(3, 109, 22, 0.534) ;
+  border-radius: 2rem;
+  text-decoration: 2px solid black;
+  text-transform: inherit;
+  font-weight: 500;
+  font-size: 100%;
+  
+}
+
+.inputbox{
+    border: 2px solid black;
+    border-radius: 4px;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+    
+
+
+
+
+/* --------------------------------------------------css end for login page---------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------------------------------------------------------------------------------ */
+
+
+
+
+
+/* --------------------------------------------------css start for health page---------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------------------------------------------------------------------------------ */
+
+body{
+
+    background-image: url(health.jpg);
+    background-position: center;
+    
+
+    
+
+    backface-visibility: hidden;
+
+    background-repeat: none;
+
+    background-attachment: fixed;
+
+    /* margin-left: 45%; */
+    text-align: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.back-btn-health{
+
+    align-items: center;
+    text-align: center;  
+  width: 6%;
+  height: 1.9rem;
+  background-clip: text;
+    -webkit-background-clip: text; 
+  text-shadow: 4px 6px 6px rgba(3, 109, 22, 0.534) ;
+  border-radius: 8px;
+  text-decoration: 2px solid black;
+  text-transform: inherit;
+  font-weight: 500;
+  font-size: 100%;
+  text-transform: uppercase;
+
+}
+
+.active-btn-health{
+    align-items: center;
+    text-align: center;  
+  width: 8%;
+  height: 1.9rem;
+  background-clip: text;
+    -webkit-background-clip: text; 
+  text-shadow: 4px 6px 6px rgba(3, 109, 22, 0.534) ;
+  border-radius: 8px;
+  text-decoration: 2px solid black;
+  text-transform: inherit;
+  font-weight: 500;
+  font-size: 100%;
+  text-transform: uppercase;
+  margin-left: 2rem;
+
+}
+
+
+.texthealth{
+    text-align: left;
+    margin-left: 4%;
+    
+}
+.texthealth h1{
+
+    align-items: center;
+    align-content: baseline;
+    justify-content: center;  
+    text-decoration: solid;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    align-items: center;
+
+    font-weight: 800;
+
+    font-size: 400%;
+
+    margin-top: 1%;
+
+  
+    
+    background-image: linear-gradient(to bottom, rgb(12, 113, 160),rgb(6, 34, 91));
+
+    background-clip: text;
+    -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+}
+.texthealth h3{
+
+    margin-top: -3%;
+
+
+   
+    background-image: linear-gradient(to bottom, rgb(122, 128, 128), black);
+
+    background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+        font-weight: 800;
+        font-style: oblique;
+        font-size: 120%;
+}
+.texthealth p{
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 4%;
+    font-size: 120%;
+    font-weight: 700;
+}
+.healthcontents{
+    text-align: left;
+    padding-top: 1%;
+}
+.healthcontents h2{
+
+    align-items: center;
+    align-content: baseline;
+    justify-content: center;  
+    text-decoration: solid;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    align-items: center;
+
+    font-weight: 800;
+
+    font-size: 200%;
+
+    margin-top: 1%;
+
+  
+    
+    background-image: linear-gradient(to bottom, rgb(16, 16, 165),rgb(4, 4, 34));
+
+    background-clip: text;
+    -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+}
+
+.healthcontents ul {
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: -100%;
+    padding-bottom: 4%;
+    font-size: 120%;
+    font-weight: 500;
+}
+
+/* --------------------------------------------------css end for health page---------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------------------------------------------------------------------------------ */
+
+
+
+
